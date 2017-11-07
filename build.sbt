@@ -1,4 +1,4 @@
-name := "test-twitter-agg"
+name := "twitter-agg"
 
 version := "0.1"
 
